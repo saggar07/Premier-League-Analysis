@@ -3,7 +3,7 @@
 
 This project analyzes football player performance using a structured dataset to identify and visualize the top goal scorers across different clubs. The analysis focuses on data cleaning, aggregation, ranking, and visualization to highlight the most impactful players and present insights through a clean, publication-ready chart.
 
-View my notebook with detailed steps here: [most goals for their club.ipynb]()
+View my notebook with detailed steps here:
 [Run on Colab](https://colab.research.google.com/github/saggar07/Premier-League-Analysis/blob/main/top_goalscorers.ipynb)
 
 
