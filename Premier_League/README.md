@@ -3,10 +3,11 @@
 
 ## 🧾 Project Overview
 
-This project analyzes the Premier League Player Statistics dataset, which contains detailed performance metrics of Premier League players updated regularly. The primary goal is to explore individual performance trends, compare players across clubs and seasons, and extract actionable insights that highlight key contributors in various skill areas (scoring, passing, defensive actions, playmaking, etc.).
+This project performs an in-depth analysis of Premier League player-level performance data, sourced from a regularly updated Kaggle dataset. The objective is to evaluate and compare player performances across clubs and positions using key football metrics such as goals, assists, minutes played, and other on-field contributions.
 
-The analysis includes data cleaning, exploratory data analysis (EDA), visualizations, and summary insights, making this project useful for data-driven storytelling, performance evaluation, and potential use in predictive modeling or recommendation systems. 
-Kaggle
+Using Python-based data analysis techniques, the project focuses on cleaning raw statistical data, conducting exploratory data analysis (EDA), and creating meaningful visualizations to uncover trends, standout performers, and performance patterns. Special emphasis is placed on per-90 metrics and positional comparisons to ensure fair and context-aware evaluation of players with varying playtime.
+
+The analysis aims to replicate real-world sports analytics workflows, similar to those used by clubs, analysts, and media teams, and demonstrates how raw match data can be transformed into actionable insights for performance evaluation, scouting, and decision-making.
 
 ## 📂 About the Dataset
 
@@ -52,14 +53,18 @@ The EDA includes the following:
 
  Team Comparisons – Distribution of player contributions across clubs
 
-## 🧠 Key Insights (Examples)
+## 🧠 Key Analysis
 
-Note: Replace these with actual insights once analysis is done.
+ Top Scorers: Identified players with the highest total goals from each team
 
- Top Scorers: Identified players with the highest total goals
-
- Playmakers: Players with top assists and key passes
-
- Efficient Performers: Players with highest goals or assists per 90 mins
+ Playmakers: Players leading in numbers for the metrics which make them a world class midfielder
 
  Defensive Impact: Defensive metrics highlighting standout defenders
+
+## 👤 Author
+
+Name: Uday Saggar
+
+Skills: Python, SQL, Data Analysis, Data Cleaning, Data Visualization
+
+Target Role: Data Analyst
