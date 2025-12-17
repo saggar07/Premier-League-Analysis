@@ -3,7 +3,8 @@
 
 This project analyzes football defenders’ performance to identify the top performers across key defensive metrics. Using a combination of data preprocessing, filtering, ranking, and visualization, the project highlights defenders excelling in Interceptions, Clean Sheets, and Duels Won, and presents insights through glow-enhanced horizontal bar charts.
 
-View my notebook with detailed steps here: [defensive stats.ipynb]()
+View my notebook with detailed steps here:
+[Run on Colab](https://colab.research.google.com/github/saggar07/Premier-League-Analysis/blob/main/defensive_stats.ipynb)
 
 ## 1. Workflow Description
 Importing Libraries and Preparing the Dataset
