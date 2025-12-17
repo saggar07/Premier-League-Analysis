@@ -3,7 +3,8 @@
 
 This project analyzes football midfielders’ performance to identify the most efficient players across key creative and playmaking metrics. Using a combination of data preprocessing, normalization, ranking, and visualization, the project highlights top performers and presents insights through a radar chart for easy comparison.
 
-View my notebook with detailed steps here: [efficient midfielders.ipynb]()
+View my notebook with detailed steps here:
+[Run on Colab](https://colab.research.google.com/github/saggar07/Premier-League-Analysis/blob/main/efficient_midfielders.ipynb)
 ## 1. Workflow Description
 Importing Libraries and Preparing the Dataset
 
